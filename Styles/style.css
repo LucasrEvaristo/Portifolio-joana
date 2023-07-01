@@ -129,14 +129,6 @@ a:hover{
     padding: 23.5px;
 }
 
-.rodape__about{
-    color: white;
-    text-align: center;
-    background-color: #22D4FD;
-    font-family: var(--fonte-primaria);
-    padding: 19px;
-}
-
 @media (max-width: 1200px){
     .apresentacao{
         flex-direction: column-reverse;
