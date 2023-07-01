@@ -127,7 +127,7 @@ a:hover{
     background-color: #22D4FD;
     font-family: var(--fonte-primaria);
     padding: 23.5px;
-    width: 97.5%;
+    font-weight: 400px;
 }
 
 .rodape__about{
@@ -135,10 +135,9 @@ a:hover{
     text-align: center;
     background-color: #22D4FD;
     font-family: var(--fonte-primaria);
-    padding: 23.5px;
-    bottom: 0;
-    position: absolute;
-    width: 97.5%;
+    padding: 19px;
+    padding-bottom: 22px;
+  font-weight: 400px;
 }
 
 @media (max-width: 1200px){
