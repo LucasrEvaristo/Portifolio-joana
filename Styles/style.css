@@ -137,7 +137,9 @@ a:hover{
     background-color: #22D4FD;
     font-family: var(--fonte-primaria);
     padding: 23.5px;
-    font-weight: 400px;
+    bottom: 0;
+    position: absolute;
+    width: 97.5%;
 }
 
 @media (max-width: 1200px){
